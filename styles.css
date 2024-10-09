@@ -6,7 +6,7 @@ body {
     background-position: contain; /* Centers the image both horizontally and vertically */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-color: #000; /* Fallback color in case image doesn't cover the entire screen */
-    margin: 0;
+    margin: 1;
     padding: 0;
     color: #fff; /* Adjust text color for contrast */
 }
@@ -24,7 +24,7 @@ body {
 
 h1 {
   color: #4169e1;
-  margin: 0;
+  margin: 1;
 }
 
 .hero-section {
